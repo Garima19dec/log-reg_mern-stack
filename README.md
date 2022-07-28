@@ -2,7 +2,7 @@
 
 ## Register page
 
-#### After registration it will shows this popup
+#### ***After registration it will shows this popup***
 
 ![regpg](https://user-images.githubusercontent.com/61132306/181499339-07d7f02d-af1a-49ef-baa5-23a574179839.JPG)
 
