@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background: #f0f2f5;
+    /* background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+    background-image: linear-gradient(to right top, #dcf1f2, #dff2f3, #e1f2f3, #e4f3f4, #e6f3f4, #e7f3f4, #e7f2f3, #e8f2f3, #e7f2f2, #e6f1f1, #e5f1f0, #e4f0ef);
+}
+
+.background {
+    /* background: url('https://images.unsplash.com/photo-1556745757-8d76bdb6984b') no-repeat center; */
+    background: url('https://thumbs.dreamstime.com/b/close-up-view-modern-workspace-copy-space-stationery-coffee-cup-decorations-white-table-blurred-background-169254271.jpg');
+    background-size: 100% 100%;
+    position: absolute;
+    top: -20px;
+    bottom: -20px;
+    left: -20px;
+    right: -20px;
+    z-index: -1;
+}
